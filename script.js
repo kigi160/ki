@@ -1,6 +1,6 @@
 window.onload = function()
 {
-    const name = "Деев Леонид Русланович";
+    const name = "Гайворонская Кристина";
     const element = document.querySelector("#name");
     if (element)
     {
